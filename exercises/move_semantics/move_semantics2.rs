@@ -5,7 +5,6 @@
 // vec0 has length 3 content `[22, 44, 66]`
 // vec1 has length 4 content `[22, 44, 66, 88]`
 
-
 fn main() {
     let mut vec0 = Vec::new();
 
