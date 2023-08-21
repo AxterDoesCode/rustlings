@@ -30,7 +30,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 Or if you want it to be installed to a different path:
 
 ```bash
-curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash -s mypath/
+curl -L https://raw.githubusercontent.com/AxterDoesCode/rustlings/prod/install.sh | bash -s ~/Documents/rustlings
 ```
 
 This will install Rustlings and give you access to the `rustlings` command. Run it to get started!
